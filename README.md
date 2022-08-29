@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyberprogram
-- 👀 I’m interested in programmation with the language javascript for now
+- 👀 I’m interested in programmation with the language javascript for now <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 - 🌱 I’m currently learning English/programmation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
