@@ -10,5 +10,3 @@ I'm 17y and i'm in terminal STI2D in France, I'm going to do a University degree
 My hobbies is video games, role play game, karate and swiming. 
  so far so good ;)
 --->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
