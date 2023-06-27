@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 
 <!---
-I'm 17y and i'm in terminal STI2D in France, I'm going to do a University degree in computer technology for learn programation. 
-My hobbies is video games, role play game, karate and swiming. 
+I'm 18y and i'm in BUT MMI of Lannion in France,
+My hobbie is to create WebSites, Web app.
  so far so good ;)
 --->
